@@ -1,8 +1,5 @@
-<div align="center">
-
 ### Hi, I'm xiaolinbenben 👋
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaolinbenben&theme=default" />
+<div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaolinbenben&theme=default" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaolinbenben&theme=default" />
