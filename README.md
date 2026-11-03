@@ -10,4 +10,8 @@
 <p>
   <img src="https://streak-stats.demolab.com/?user=xiaolinbenben&theme=dark" />
 </p>
-<img src="https://ghchart.rshah.org/xiaolinbenben" alt="contributions" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaolinbenben/xiaolinbenben/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/xiaolinbenben/xiaolinbenben/output/github-snake.svg" />
+</picture>
